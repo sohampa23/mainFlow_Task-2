@@ -1,0 +1,10 @@
+# mongodb_url=mongodb+srv://roshnibhoi506:roshnibhoi506@giftngifts.9u4bi.mongodb.net/
+mongodb_url= mongodb+srv://sohampaik113:sohampaik11@cluster0.2ymr2.mongodb.net/
+PORT=5000
+JWT_SECRET='secret#text'
+NODE_ENV='development'
+
+SMTP_USER="84569f001@smtp-brevo.com"
+SMTP_PASSWORD="Kabgmj5pG0T39WSr"
+
+SENDER_EMAIL="sohampaik85@gmail.com"
